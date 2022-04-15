@@ -20,7 +20,7 @@ public class Principal {
 	            numero--;
 	            }
 	        if (numero>=0 && numero<=10) {
-	            System.out.println("El factorial del numero es:" + factorial);
+	            System.out.println("El factorial del numero es: " + factorial);
 	        }
 	        else {
 	            System.out.println("El numero no esta dentro del rango");
