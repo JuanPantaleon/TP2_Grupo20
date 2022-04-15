@@ -1,10 +1,6 @@
 package ar.edu.unju.fi.ejercicio4;
 
-import java.time.Month;
-import java.time.format.TextStyle;
-import java.util.Calendar;
 import java.util.InputMismatchException;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Ejercicio4 {
